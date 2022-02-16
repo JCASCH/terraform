@@ -1,0 +1,5 @@
+
+TF/.aws/credentials
+TF/.aws/credentials
+*.tfstate
+*.exe
